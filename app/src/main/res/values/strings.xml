@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">언제 쿨 도냐</string>
+    <string name="smite">SMITE</string>
+    <string name="ghost">GHOST</string>
+    <string name="heal">HEAL</string>
+    <string name="teleport">TELEPORT</string>
+    <string name="cleanse">CLEANSE</string>
+    <string name="barrier">BARRIER</string>
+    <string name="ignite">IGNITE</string>
+    <string name="exhaust">EXHAUST</string>
+    <string name="flash">FLASH</string>
+</resources>
