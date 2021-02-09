@@ -1,4 +1,5 @@
 # 언제쿨도냐 - 리그오브레전드 챔피언 궁극기 및 소환사주문 재사용대기시간을 확인하는 어플
+![previewImage](https://github.com/true-pine/Android_App_When/blob/master/docs/preview.webp)
 ### 1. 개발배경  
 게임의 승패에 영향을 많이 주는 영웅의 궁극기와 상대방의 소환사 주문을 체크하여 게임의 승리에 도움이 되는 어플이 없을까? 라는 생각에서 개발
 ### 2. 주요기능  
